@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path
 from rahul import views
 from tushar import views 
+from tushar delete vars
 
 urlpatterns = [
     path('admin/', admin.site.urls),
